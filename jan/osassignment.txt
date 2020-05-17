@@ -1,0 +1,6 @@
+
+delete first and last character of each line:  sed 's/.$//; s/^.//' inputfile
+1) man > myfile1
+    more myfile1
+2) who > myfile2 | date
+    more f1
